@@ -1,7 +1,7 @@
 # IS601 Midterm Project — Enhanced Calculator (Python)
 
 ### Author: Ishan Rehan  
-**Course:** IS601 — Web Systems Development  
+**Course:** IS601 — Python for Web API Development  
 **Institution:** New Jersey Institute of Technology (NJIT)
 
 ---
